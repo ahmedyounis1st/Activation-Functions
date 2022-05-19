@@ -1,0 +1,2 @@
+# Activation-Functions
+Activation functions are important for the neural network model to learn and understand complex non-linear functions. They allow introduction of non-linear features to the network. Without activation functions, output signals are only simple linear functions. The complexity of linear functions is limited, and the capability of learning complex function mappings from data is low.
